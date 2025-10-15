@@ -1,2 +1,7 @@
 # shiny-octo-meme
-A repository for learning the basics of GitHub.
+This repository is a practice area for learning the fundamental features of GitHub.
+
+It includes:
+- A sample Python script
+- A project plan document
+- An image file
